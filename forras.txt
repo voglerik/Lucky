@@ -1,0 +1,58 @@
+banner
+https://www.pexels.com/hu-hu/foto/botanikus-elelmiszer-etel-felulnezet-374757/
+
+
+ikon
+https://www.flaticon.com/free-icon/clover_3199824?related_item_id=3199824&term=clover
+
+<div>Icons made by <a href="http://www.freepik.com/" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
+
+home bg
+https://www.freepik.com/free-photo/coffee-beans-with-props-making-coffee_5009127.htm#page=1&query=coffee%20store&position=2
+<a href='https://www.freepik.com/photos/background'>Background photo created by valeria_aksakova - www.freepik.com</a>
+
+betű
+https://fonts.google.com/specimen/Fredericka+the+Great?category=Display,Handwriting&preview.text=Mi%20kis%20k%C3%A1v%C3%A9z%C3%B3nk&preview.text_type=custom&sidebar.open=true&selection.family=Fredericka+the+Great
+
+coffee cup
+https://www.flaticon.com/free-icon/coffee-cup_751621?term=coffee%20cup&page=1&position=3&related_item_id=751621
+
+cappuccino_k
+https://pixabay.com/hu/photos/k%C3%A1v%C3%A9-a-koffein-k%C3%A1v%C3%A9z%C3%B3-ital-cs%C3%A9sze-2242265/
+
+americano_k
+https://pixabay.com/hu/photos/k%C3%A1v%C3%A9-cafe-coffee-shop-americano-843278/
+
+latte_k
+https://pixabay.com/hu/photos/k%C3%A1v%C3%A9-latte-macchiato-%C3%A9tterem-431121/
+
+sunflower.png (napi ajánlat ikon)
+https://www.flaticon.com/free-icon/sunflower_3554132?term=sunflower&page=2&position=7&related_id=3554132&origin=search
+
+tiramisu_k
+https://pixabay.com/hu/photos/tiramisu-desszert-%C3%A9dess%C3%A9g-2238291/
+
+kavesbrownie_k
+https://pixabay.com/hu/photos/brownie-desszert-a-cake-%C3%A9des-548591/
+
+kavessuti
+https://pixabay.com/hu/photos/%C3%A9lelmiszer-k%C3%A1v%C3%A9-ital-kupa-s%C3%B6t%C3%A9t-3196302/
+
+kavescroissant_k
+https://pixabay.com/hu/photos/reggeli-koffein-cappuccino-2178268/
+
+kavesmuffin_k
+https://pixabay.com/hu/photos/%C3%A9lelmiszer-%C3%A9des-fel%C3%BCd%C3%ADt%C3%A9s-cukor-3127684/
+
+blog reggel
+https://pixabay.com/hu/photos/%C3%A9breszt%C5%91%C3%B3ra-feket%C3%A9s-cs%C3%A9sze-k%C3%A1v%C3%A9-2132276/
+
+letter svg
+https://www.flaticon.com/free-icon/message_520648?term=email&page=1&position=8&page=1&position=8&related_id=520648&origin=search
+
+email
+https://www.flaticon.com/free-icon/at_580704?term=email&page=1&position=18&page=1&position=18&related_id=580704&origin=search 
+
+telephone
+https://www.flaticon.com/free-icon/telephone_953831?term=telephone&page=1&position=15&page=1&position=15&related_id=953831&origin=search
+
